@@ -20,7 +20,8 @@ Are the descriptions in the methodology section detailed for reproducibility? If
 # Team
 1. Bernice Waweru - Project Lead
 2. Landi Cofia - Assistant Lead
-3. Ken Mugambi
-4. Oscar Mwaura
-5. Alex Gashanja
+3. Laurah Nyasita Ondari - Team lead
+4. Ken Mugambi
+5. Oscar Mwaura
+6. Alex Gashanja
 
